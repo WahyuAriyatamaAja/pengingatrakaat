@@ -1,3 +1,4 @@
+Jancuk
 **Intro**
 
 Artikel ini membahas proyek pengembangan teknologi UbiCom dengan tema "Pengingat Rakaat dalam Shalat Menggunakan Sensor Kamera Smartphone."
